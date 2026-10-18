@@ -1,0 +1,30 @@
+GR VISUAL COMUNICAÇÕES — QUESTIONÁRIO PERSONAL ORGANIZER
+=====================================================
+
+ARQUIVOS (todos juntos, na mesma pasta, sem subpastas)
+  index.html  -> a página principal (precisa ficar na RAIZ)
+  style.css   -> visual
+  script.js   -> funcionamento e envio
+  LEIA-ME.txt -> este guia
+
+COMO AS RESPOSTAS CHEGAM
+  Não precisa de Netlify nem de servidor. Ao tocar em
+  "Enviar pelo WhatsApp", a página abre o WhatsApp com todas as
+  respostas já escritas para o número da GR Visual:
+  (27) 98859-8494. A Cristina só precisa tocar em enviar.
+  Se o WhatsApp não abrir, ela pode copiar as respostas e colar.
+
+  Para trocar o número: abra o script.js e altere a linha
+  var WHATSAPP_GR = '5527988598494';
+  (55 + DDD + número, só dígitos).
+
+ONDE PUBLICAR
+  Funciona em qualquer hospedagem de site estático (GitHub Pages,
+  Cloudflare Pages, Vercel, Hostinger, tiiny.host etc.).
+  Regra de ouro para não dar erro 404: envie os arquivos de forma
+  que o index.html fique na raiz, e não dentro de uma pasta.
+
+COMO TESTAR DEPOIS DE PUBLICAR
+  1. Abra o link no celular e toque em "Começar questionário".
+  2. Preencha com dados de teste e toque em "Enviar pelo WhatsApp".
+  3. Confira se o WhatsApp abre com as respostas e envie para você.
