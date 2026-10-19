@@ -1,0 +1,11 @@
+GR VISUAL COMUNICAÇÕES — BRIEFING SORVETERIA (nova marca e reinauguração)
+
+LINK: https://grvisualcomunicacoes-hash.github.io/briefing-cristina/sorveteria/
+
+COMO AS RESPOSTAS CHEGAM
+  1. E-mail: grvisualcomunicacoes@gmail.com (pelo serviço gratuito FormSubmit).
+     Na PRIMEIRA vez, o FormSubmit manda um e-mail de ativação.
+     Abra e toque em "Activate Form". Depois disso todas as respostas chegam.
+  2. WhatsApp: (27) 98843-5960 — botão "Enviar pelo WhatsApp" na tela final.
+
+Para trocar e-mail ou número: script.js, linhas WHATSAPP_GR e EMAIL_GR.
